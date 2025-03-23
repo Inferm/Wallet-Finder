@@ -1,0 +1,5 @@
+psutil
+multiprocessing-logging
+ecdsa
+cryptography
+sqlite3
