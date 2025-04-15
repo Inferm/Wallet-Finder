@@ -1,6 +1,6 @@
 color 0A
 
 
-python run.py
+python wallet_generator.py
 cmd /k
 
